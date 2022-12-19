@@ -12,7 +12,7 @@ Fork는 다른 사람의 리포지토리를 그대로 복제해서 가져오는 
 
 복제한 리포지토리는 이제 원본 리포지토리랑 분리가 됐기 때문에 Fork한 리포지토리에 코드 수정을 해도 원본 리포지토리에 영향을 주지 않습니다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 링크에 들어가면 위와 같은 페이지가 나옵니다.
 
@@ -43,7 +43,7 @@ Clone은 로컬에 리포지토리 파일을 생성하는 것입니다.
 왜 굳이 이런 방식을 사용하냐면 다른 사람의 리포지토리에 접근할 권한이 없기 때문입니다.\
 그래서 코드를 수정한 경우, 나중에 배우는 Pull Request라는 기능을 사용해서 원본 리포지토리에 ‘난 이렇게 코드를 수정했어’라는 신청서를 내면 된다고 생각하면 됩니다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 이제 오른쪽 아래에 있는 초록색 Code 버튼을 클릭합니다.
 
@@ -59,6 +59,6 @@ Clone은 로컬에 리포지토리 파일을 생성하는 것입니다.
 
 이제 그러면 미리 실행해두었던 git을 실행하여 `git clone 복사한내용` 을 입력합니다.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 그러면 이렇게 자동적으로 폴더가 생성될 것입니다.
