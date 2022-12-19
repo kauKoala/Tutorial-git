@@ -1,5 +1,7 @@
 # add, commit, push
 
+### 1. add - commit - push
+
 GitHub에 기록을 남기는 방법은 add - commit - push입니다.
 
 * add : 기록할 파일을 추가하다.
@@ -14,11 +16,9 @@ IDE를 통해 이전에 Fork - Clone한 리포지토리인 chrome-extensions-sam
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-저는 Javascript를 사용 안해서 Java IDE인 IntelliJ를 사용하여 실행을 했는데, 해당 경로에 들어가면 이런 파일이 나오게 됩니다. 여기서 3개를 수정하면 됩니다.
+저는 Javascript를 사용 안해서 Java IDE인 IntelliJ를 사용하여 실행을 했는데, 해당 경로에 들어가면 이런 파일이 나오게 됩니다. 일단은 한 줄만 수정하면 됩니다.
 
 * line 17 : ON → OFF
-* line 38 : OFF → ON
-* line 44 : ON → OFF
 
 이후 수정한 내용을 깃허브에 기록을 해두고 싶습니다.
 
@@ -53,3 +53,14 @@ git push
 수정된 내용만 나오는 분들도 있겠지만, 여러 개의 파일이 등록되어도 문제가 없습니다.
 
 일단 중요한 점은 add - commit - push 방식으로 GitHub에 기록한다고 생각하면 됩니다.
+
+
+
+### 2. 연습
+
+나머지 아래 내용도 수정해서 add - commit - push를 해봅시다.
+
+커밋 메시지는 아무 내용이나 적어도 상관 없습니다.
+
+* line 38 : OFF → ON
+* line 44 : ON → OFF
