@@ -4,8 +4,7 @@
 
 ## 개요 <a href="#summary" id="summary"></a>
 
-* [git 소개](summary/git.md)
-* [git Command](summary/git-command.md)
+* [git command](summary/git-command.md)
 
 ## 초기 세팅 <a href="#setting" id="setting"></a>
 
