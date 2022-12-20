@@ -4,7 +4,7 @@
 
 ### 1. Working Directory, Staging Area, Repository
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 우리가 코드를 수정하고, 커밋을 보내 GitHub에 기록을 할 때까지 총 3가지 영역을 거치게 됩니다.
 
@@ -52,6 +52,6 @@ Fork한 리포지토리의 커밋 메시지는 A → B의 순서로 기록이 �
 
 위 사진처럼 push를 하지 않고, 여러 번 add와 commit을 반복한 후에 push를 해도 됩니다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 만약 push를 하기 전에 GitHub에 init이라는 커밋 메시지가 가장 최근 메시지라면 커밋 메시지를 만든 순서대로 push를 하게 되어 init → python → java 순서대로 커밋 메시지가 쌓이게 됩니다.

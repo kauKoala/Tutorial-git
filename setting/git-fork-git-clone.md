@@ -22,7 +22,7 @@ Fork는 다른 사람의 리포지토리를 그대로 복제해서 가져오는 
 
 여기서 Fork 버튼을 누릅니다.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Fork 버튼을 누르면 위 창이 나옵니다.
 
