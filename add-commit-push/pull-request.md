@@ -46,7 +46,7 @@ Pull Request를 보내는 방법 자체는 간단합니다.
 
 왼쪽 위에 빨간 박스처럼 자신의 아이디가 적혀있고, 가운데에 1 이상의 숫자가 x commit ahead로 되어 있다면 잘 따라온 것입니다. 현재 저는 1개의 커밋만 보냈기 때문에 1이라고 표시되어 있는 것이지 여러 개의 커밋 메시지가 있어도 상관이 없습니다.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption></figcaption></figure>
 
 여기서 Contribute 버튼을 누르고 Open pull request 버튼을 클릭합니다.
 
