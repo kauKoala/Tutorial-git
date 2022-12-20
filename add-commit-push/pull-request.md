@@ -50,7 +50,7 @@ Pull Request를 보내는 방법 자체는 간단합니다.
 
 여기서 Contribute 버튼을 누르고 Open pull request 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 이제 Pull Request를 보낼 수 있는 내용들이 나옵니다.
 

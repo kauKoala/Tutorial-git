@@ -8,7 +8,7 @@
 
 그러면 위와 같은 사진이 나온다는 것을 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 첫 번째 줄은 무조건 커밋 메시지 제목이 됩니다.
 
@@ -20,4 +20,4 @@ nano 에디터 기준으로 Ctrl + O, Ctrl + X를 하면 커밋 메시지를 저
 
 이후 Push를 해서 GitHub의 리포지토리에 들어가면 이렇게 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>

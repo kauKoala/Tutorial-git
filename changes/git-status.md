@@ -17,7 +17,7 @@
 
 이제 git status를 통해 확인하면 됩니다.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * background.js는 수정이 됐지만 Staging Area 상태가 아니라서 빨간색으로 나오고 있습니다.
 * test.js는 새로 만들어진 파일이라 아직 기록이 되지 않았습니다.

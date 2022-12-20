@@ -30,7 +30,7 @@ git log만 입력해보면 위와 같이 커밋 내역을 확인할 수 있습�
 
 ### 2. git log —oneline
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 커밋 아이디와 커밋 메시지 제목만 확인하는 방법입니다.
 
@@ -62,7 +62,7 @@ oneline 옵션의 경우엔 제가 임의로 설정을 한 것이지 oneline이 
 
 참고로 대소문자를 구분합니다. 그러면 이번엔 Tutorial을 검색해봅시다.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
 
 대소문자를 구분하기 때문에 서로 다른 결과물이 나온다는 것을 알 수 있습니다.
 
