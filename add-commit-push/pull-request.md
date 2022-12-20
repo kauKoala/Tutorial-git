@@ -40,7 +40,7 @@
 
 Pull Request를 보내는 방법 자체는 간단합니다.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 먼저 자신이 커밋 메시지를 보낸 리포지토리가 맞는지 확인합니다.
 
@@ -78,7 +78,7 @@ Pull Request를 보내는 방법 자체는 간단합니다.
 
 
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 이제 모든 게 결정 됐다면 이제 Create pull request 버튼을 누릅니다.
 

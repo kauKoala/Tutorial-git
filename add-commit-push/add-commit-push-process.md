@@ -4,7 +4,7 @@
 
 ### 1. Working Directory, Staging Area, Repository
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 우리가 코드를 수정하고, 커밋을 보내 GitHub에 기록을 할 때까지 총 3가지 영역을 거치게 됩니다.
 

@@ -40,7 +40,7 @@ git push
 * `git commit -m "fix: 코드 복구"` : add한 파일들은 fix: 코드 복구라는 내용으로 기록
 * `git push` : 내가 기록한 내용을 GitHub에 저장
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 이제 아래에 메시지가 추가된 것을 확인할 수 있습니다.
 

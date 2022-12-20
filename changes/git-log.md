@@ -8,7 +8,7 @@
 
 가장 기초가 되는 커밋 메시지 목록 확인 방법입니다.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 git log만 입력해보면 위와 같이 커밋 내역을 확인할 수 있습니다.
 
@@ -20,7 +20,7 @@ git log만 입력해보면 위와 같이 커밋 내역을 확인할 수 있습�
 
 3개의 커밋을 확인한다고 가정하면 `git log -3`을 입력하면 됩니다.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 이렇게 3개가 나오는 것을 확인할 수 있습니다.
 
@@ -30,7 +30,7 @@ git log만 입력해보면 위와 같이 커밋 내역을 확인할 수 있습�
 
 ### 2. git log —oneline
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 커밋 아이디와 커밋 메시지 제목만 확인하는 방법입니다.
 
@@ -40,7 +40,7 @@ git log만 입력해보면 위와 같이 커밋 내역을 확인할 수 있습�
 
 `git log --oneline -5` 를 입력하면 됩니다.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -56,13 +56,13 @@ git log만 입력해보면 위와 같이 커밋 내역을 확인할 수 있습�
 
 oneline 옵션의 경우엔 제가 임의로 설정을 한 것이지 oneline이 없어도 상관은 없습니다.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 이렇게 tutorial을 입력한 내용만 나오게 됩니다.
 
 참고로 대소문자를 구분합니다. 그러면 이번엔 Tutorial을 검색해봅시다.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 대소문자를 구분하기 때문에 서로 다른 결과물이 나온다는 것을 알 수 있습니다.
 
@@ -76,7 +76,7 @@ oneline 옵션의 경우엔 제가 임의로 설정을 한 것이지 oneline이 
 
 `git log --oneline --shortstat` 을 입력해봅시다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 이렇게 몇 개의 파일이 변경됐는지, 몇 개의 코드가 생성/삭제가 됐는지 확인할 수 있습니다.
 
@@ -88,12 +88,12 @@ oneline 옵션의 경우엔 제가 임의로 설정을 한 것이지 oneline이 
 
 Pull Request를 해서 merge를 하게 되면 merge를 했다는 기록을 남기기 위해 커밋 메시지에 아무 의미 없는 메시지가 남게 됩니다.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 보통 리포지토리 기록을 깔끔하게 관리한다면 squash and merge를 통해 pull request에 있는 모든 커밋을 하나의 커밋으로 관리하게 됩니다. 여기에 나온 #61이 Pull Request의 번호입니다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 하지만 일반적인 merge가 될 경우, 모든 커밋이 리포지토리에 저장이 되는데, 위 사진과 같이 머지가 됐다는 것만 기록하는 아무런 내용이 없는 커밋 메시지가 들어가게 됩니다.
 
-그래서 이 메시지를 삭제하고 커밋 메시지 목록을 확인할 경우 `git log --oneline --no-mereges` 를 사용하면 됩니다.
+그래서 이 메시지를 삭제하고 커밋 메시지 목록을 확인할 경우 `git log --oneline --no-merges` 를 사용하면 됩니다.
