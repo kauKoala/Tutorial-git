@@ -18,7 +18,7 @@ Fork는 다른 사람의 리포지토리를 그대로 복제해서 가져오는 
 
 해당 페이지는 진짜 오픈소스 리포지토리에서 실습을 하는게 아니라 koala-eat-eucalyptus라는 조직에 fork를 한 리포지토리입니다. 그래서 여기에서 코드를 수정해도 전혀 문제가 없습니다.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 여기서 Fork 버튼을 누릅니다.
 
@@ -49,7 +49,7 @@ Clone은 로컬에 리포지토리 파일을 생성하는 것입니다.
 
 주의할 점은 초록 버튼을 누를 때에도 오른쪽 위의 아이디가 자신의 아이디로 나와야 합니다.
 
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 초록색 Code 버튼을 누르면 위와 같은 창이 나오는데, 여기서 복사 버튼을 누르면 됩니다.
 

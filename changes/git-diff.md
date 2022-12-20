@@ -13,7 +13,7 @@
 
 `git diff`를 사용해봅시다.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 이렇게 빨간색은 수정 이전의 내용, 초록색은 수정된 내용으로 확인할 수 있습니다.
 

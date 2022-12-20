@@ -40,7 +40,7 @@
 
 Pull Request를 보내는 방법 자체는 간단합니다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 먼저 자신이 커밋 메시지를 보낸 리포지토리가 맞는지 확인합니다.
 
