@@ -30,7 +30,7 @@ git log만 입력해보면 위와 같이 커밋 내역을 확인할 수 있습�
 
 ### 2. git log —oneline
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 커밋 아이디와 커밋 메시지 제목만 확인하는 방법입니다.
 
@@ -76,7 +76,7 @@ oneline 옵션의 경우엔 제가 임의로 설정을 한 것이지 oneline이 
 
 `git log --oneline --shortstat` 을 입력해봅시다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 이렇게 몇 개의 파일이 변경됐는지, 몇 개의 코드가 생성/삭제가 됐는지 확인할 수 있습니다.
 
