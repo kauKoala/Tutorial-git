@@ -24,7 +24,7 @@
 
 일단 git add .을 사용하여 파일을 둘 다 Staging Area 상태로 이동해주고, 다시 git status를 사용해서 확인을 해보겠습니다.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 이렇게 초록색의 글자로 바뀌게 된 것을 확인할 수 있습니다.
 

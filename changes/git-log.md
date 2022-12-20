@@ -76,7 +76,7 @@ oneline 옵션의 경우엔 제가 임의로 설정을 한 것이지 oneline이 
 
 `git log --oneline --shortstat` 을 입력해봅시다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 이렇게 몇 개의 파일이 변경됐는지, 몇 개의 코드가 생성/삭제가 됐는지 확인할 수 있습니다.
 
@@ -88,7 +88,7 @@ oneline 옵션의 경우엔 제가 임의로 설정을 한 것이지 oneline이 
 
 Pull Request를 해서 merge를 하게 되면 merge를 했다는 기록을 남기기 위해 커밋 메시지에 아무 의미 없는 메시지가 남게 됩니다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 보통 리포지토리 기록을 깔끔하게 관리한다면 squash and merge를 통해 pull request에 있는 모든 커밋을 하나의 커밋으로 관리하게 됩니다. 여기에 나온 #61이 Pull Request의 번호입니다.
 
