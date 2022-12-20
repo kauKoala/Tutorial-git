@@ -16,4 +16,4 @@
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
-이렇게커밋 메시지가 어떤지, 코드가 어떻게 바뀌었는지 확인할 수 있게 됩니다.
+이렇게 커밋 메시지가 어떤지, 코드가 어떻게 바뀌었는지 확인할 수 있게 됩니다.
