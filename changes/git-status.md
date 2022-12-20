@@ -30,4 +30,8 @@
 
 이처럼 git status를 통해 한 번에 파일이 수정/생성/삭제가 됐는지 확인할 수 있습니다.
 
-그래서 제경우에는 add - commit - push를 하기 전에 어떤 파일이 변경되어 있는지 git status로 확인하는 편입니다.
+그래서 저는 add - commit - push를 하기 전에 어떤 파일이 변경되어 있는지 git status로 확인하는 편입니다.
+
+{% hint style="info" %}
+다음 실습은 background.js에서 진행할 예정이니 add - commit - push를 진행하시길 바랍니다. 커밋 메시지는 연습용이니 아무 내용이나 적어서 보내도 상관 없습니다.
+{% endhint %}
