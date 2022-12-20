@@ -2,7 +2,7 @@
 
 통합 개발 환경(IDE)에서는 어떤 파일을 수정했는지 색깔 별로 구분하여 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 제가 자주 사용하는 IntelliJ에서는 파란색은 코드가 수정된 파일이고, 빨간색은 파일을 새로 만들게 됐는데, 아직 git에 기록이 되지 않은 파일입니다.
 
