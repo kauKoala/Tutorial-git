@@ -28,7 +28,7 @@ Fork 버튼을 누르면 위 창이 나옵니다.
 
 여기서 Owner만 자신의 아이디가 나오는지 확인하고, 제대로 나왔는지 확인했으면 초록색 Create fork 버튼을 클릭합니다.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 이후 왼쪽 위를 확인해보면 맨 처음과는 다르게 빨간 박스가 자신의 아이디가 되어 있는 것을 확인할 수 있습니다. 여기까지 들어왔다면 정상적으로 진행했다는 것입니다.
 

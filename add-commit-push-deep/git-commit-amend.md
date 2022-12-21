@@ -22,7 +22,7 @@ Staging Area 상태일 때, 강제 push가 필요하지 않은 이유는 push는
 
 한 번 직접 제목과 본문을 수정해봅시다.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
 
 일단 저는 위에 가정했던 것과 똑같은 커밋 메시지를 작성했습니다.
 
