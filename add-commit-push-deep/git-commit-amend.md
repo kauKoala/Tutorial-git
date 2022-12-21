@@ -71,3 +71,11 @@ Staging Area 상태일 때, 덮어쓰기가 필요하지 않은 이유는 push�
 코드만 수정하는 경우엔 다음 장에서 배울 `git reset --soft`, `git reset --hard` 를 통해 코드를 수정한 뒤, `git commit --amend --no-edit` 을 입력하고, `git push -f` 를 수행하면 됩니다.
 
 참고로 `git commit --amend` 를 한 뒤, Ctrl + O, Ctrl + X를 해도 상관 없으며, `git commit --amend "최근 커밋 제목 그대로 작성"` 으로 설정하는 것과 같습니다.
+
+
+
+
+
+{% hint style="warning" %}
+가장 최근의 커밋 메시지를 수정하는 것 뿐만 아니라 중간에 있는 커밋 메시지를 수정하는 방법도 존재합니다. 이 경우 git rebase에 대해 알아야 하는데, rebase를 사용하여 활용할 수 있는 방법이 여러가지이기 때문에여기에서 다루지 않습니다.
+{% endhint %}
