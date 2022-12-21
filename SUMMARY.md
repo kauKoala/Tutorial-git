@@ -29,8 +29,8 @@
 * [커밋 메시지 본문 작성하기](add-commit-push-deep/git-commit.md)
 * [특정 파일/폴더만 add 하기](add-commit-push-deep/add-unit-file-and-folder.md)
 * [특정 파일/폴더만 add 취소하기](add-commit-push-deep/add-cancel.md)
-* [커밋 덮어쓰기](add-commit-push-deep/force-push.md)
-* [이미 만든 커밋 메시지 수정하기](add-commit-push-deep/amend.md)
+* [커밋 덮어쓰기](add-commit-push-deep/git-push-f.md)
+* [이미 만든 커밋 메시지 수정하기](add-commit-push-deep/git-commit-amend.md)
 
 ## 커밋 되돌리기 <a href="#git-reset" id="git-reset"></a>
 

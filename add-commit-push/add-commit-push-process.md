@@ -48,7 +48,7 @@ Fork한 리포지토리의 커밋 메시지는 A → B의 순서로 기록이 �
 
 ### 2. 커밋 메시지는 시간 순서대로 저장
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 위 사진처럼 push를 하지 않고, 여러 번 add와 commit을 반복한 후에 push를 해도 됩니다.
 

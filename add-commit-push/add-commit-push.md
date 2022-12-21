@@ -14,7 +14,7 @@ GitHub에 기록을 남기는 방법은 add - commit - push입니다.
 
 IDE를 통해 이전에 Fork - Clone한 리포지토리인 chrome-extensions-samples 폴더에서 `tutorials > focus-mode > background.js` 로 들어가면 됩니다.
 
-<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 저는 Javascript를 사용 안해서 Java IDE인 IntelliJ를 사용하여 실행을 했는데, 해당 경로에 들어가면 이런 파일이 나오게 됩니다. 일단은 한 줄만 수정하면 됩니다.
 

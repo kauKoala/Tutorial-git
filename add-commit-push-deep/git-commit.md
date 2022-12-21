@@ -4,11 +4,11 @@
 
 일단 코드를 아무렇게 수정하고 `git add .` 을 입력합니다. 이후 git commit을 입력합니다.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 그러면 위와 같은 사진이 나온다는 것을 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 첫 번째 줄은 무조건 커밋 메시지 제목이 됩니다.
 

@@ -49,7 +49,7 @@ Clone은 로컬에 리포지토리 파일을 생성하는 것입니다.
 
 주의할 점은 초록 버튼을 누를 때에도 오른쪽 위의 아이디가 자신의 아이디로 나와야 합니다.
 
-<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 초록색 Code 버튼을 누르면 위와 같은 창이 나오는데, 여기서 복사 버튼을 누르면 됩니다.
 

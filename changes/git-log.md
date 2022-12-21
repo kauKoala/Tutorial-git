@@ -8,7 +8,7 @@
 
 가장 기초가 되는 커밋 메시지 목록 확인 방법입니다.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 git log만 입력해보면 위와 같이 커밋 내역을 확인할 수 있습니다.
 
@@ -56,7 +56,7 @@ git log만 입력해보면 위와 같이 커밋 내역을 확인할 수 있습�
 
 oneline 옵션의 경우엔 제가 임의로 설정을 한 것이지 oneline이 없어도 상관은 없습니다.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption></figcaption></figure>
 
 이렇게 tutorial을 입력한 내용만 나오게 됩니다.
 
@@ -88,7 +88,7 @@ oneline 옵션의 경우엔 제가 임의로 설정을 한 것이지 oneline이 
 
 Pull Request를 해서 merge를 하게 되면 merge를 했다는 기록을 남기기 위해 커밋 메시지에 아무 의미 없는 메시지가 남게 됩니다.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 보통 리포지토리 기록을 깔끔하게 관리한다면 squash and merge를 통해 pull request에 있는 모든 커밋을 하나의 커밋으로 관리하게 됩니다. 여기에 나온 #61이 Pull Request의 번호입니다.
 

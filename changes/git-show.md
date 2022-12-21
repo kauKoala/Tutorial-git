@@ -6,7 +6,7 @@
 
 그러면 git log —oneline -5를 통해 최근 5개의 커밋을 확인해봅시다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 저는 위 사진처럼 5개의 커밋이 들어있습니다.
 
