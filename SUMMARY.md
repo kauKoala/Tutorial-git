@@ -39,6 +39,6 @@
 
 ## 협업하기 <a href="#collaborate" id="collaborate"></a>
 
-* [git remote](collaborate/git-remote.md)
+* [git remote](branch/git-checkout.md)
 * [pull, fetch, merge](collaborate/pull-fetch-merge.md)
-* [git branch, git checkout](collaborate/git-branch-git-checkout.md)
+* [git branch, git checkout](branch/git-branch.md)

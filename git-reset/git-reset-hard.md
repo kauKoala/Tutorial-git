@@ -16,7 +16,7 @@
 
 이후 `git status`와 `git log --oneline` 을 통해 확인을 해봅시다.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 git status에서는 IDE에서 기본 제공되는 파일을 제외하고는 다 없어진 상태입니다.
 

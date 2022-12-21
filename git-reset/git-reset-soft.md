@@ -24,13 +24,13 @@
 
 이제 모든 Staging Area에 있는 내용을 `feat: git reset --soft 실습` 이라는 커밋 메시지에 저장하게 만듭니다. (`git commit -m “feat: git reset —soft 실습`)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (6).png" alt=""><figcaption></figcaption></figure>
 
 빨간 박스처럼 forced update가 되었다는 것을 확인할 수 있습니다.
 
 이제 커밋 메시지 목록을 확인해봅시다.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 제대로 된 것을 확인할 수 있습니다.
 
