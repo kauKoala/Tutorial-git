@@ -38,15 +38,15 @@ Fetch를 했으면 이제 Merge를 해야 로컬에 반영을 할 수 있습니�
 
 merge를 하면 최신 버전으로 저장할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 이제 GitHub를 살펴보면 아직 기록을 하지 않았기 때문에 옛날 버전 그대로 나오게 됩니다.
 
 그래서 <mark style="color:red;">`git push`</mark> 를 통해 리포지토리에 반영을 합시다.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 가장 최신 커밋으로 바뀐 것을 확인할 수 있습니다.
 
@@ -60,7 +60,7 @@ fetch and merge를 한 번에 하는 방법은 pull을 사용하는 방법입니
 
 여기서는 <mark style="color:red;">`git pull upstream main`</mark> 을 실행하면 됩니다.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 fetch와 merge가 한 번에 진행하는 것을 파악할 수 있습니다.
 

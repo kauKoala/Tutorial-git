@@ -46,7 +46,7 @@ git push
 
 해당 메시지를 클릭해서 들어가 봅시다.
 
-<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 저는 분명 파일을 하나만 수정했는데, 여러가지 파일이 추가되었다고 나옵니다.
 

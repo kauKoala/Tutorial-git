@@ -6,7 +6,7 @@
 
 이번에는 우리가 그동안 쌓아둔 커밋을 날려버리고, 그때 당시 가장 최근의 커밋만 존재하게 해봅시다.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (2).png" alt=""><figcaption></figcaption></figure>
 
 `git log --oneline` 을 통해 확인해보면 제 커밋은 빨간 박스 안에 있는 fix: 코드 복구부터 새로운 커밋이 쌓였습니다.
 

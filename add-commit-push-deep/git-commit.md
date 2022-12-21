@@ -8,7 +8,7 @@
 
 그러면 위와 같은 사진이 나온다는 것을 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 첫 번째 줄은 무조건 커밋 메시지 제목이 됩니다.
 

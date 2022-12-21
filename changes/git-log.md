@@ -20,7 +20,7 @@ git log만 입력해보면 위와 같이 커밋 내역을 확인할 수 있습�
 
 3개의 커밋을 확인한다고 가정하면 `git log -3`을 입력하면 됩니다.
 
-<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 이렇게 3개가 나오는 것을 확인할 수 있습니다.
 

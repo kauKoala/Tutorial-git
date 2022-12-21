@@ -41,4 +41,4 @@
 
 * [git remote](branch/git-checkout.md)
 * [fetch, merge, pull](collaborate/fetch-merge-pull.md)
-* [git branch, git checkout](branch/git-branch.md)
+* [git branch](collaborate/git-branch.md)
