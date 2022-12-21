@@ -37,7 +37,8 @@
 * [git reset --soft](git-reset/git-reset-soft.md)
 * [git reset --hard](git-reset/git-reset-hard.md)
 
-## 브랜치 만들기 <a href="#branch" id="branch"></a>
+## 협업하기 <a href="#collaborate" id="collaborate"></a>
 
-* [git branch](branch/git-branch.md)
-* [git checkout](branch/git-checkout.md)
+* [git remote](collaborate/git-remote.md)
+* [pull, fetch, merge](collaborate/pull-fetch-merge.md)
+* [git branch, git checkout](collaborate/git-branch-git-checkout.md)
