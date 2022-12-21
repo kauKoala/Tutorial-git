@@ -12,7 +12,7 @@
 
 제 커밋 ID는 8fb1656이므로 `git reset --hard 8fb1656` 을 입력합니다.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 
 이후 `git status`와 `git log --oneline` 을 통해 확인을 해봅시다.
 
@@ -30,7 +30,7 @@ git log —oneline 에서도 커밋 메시지가 삭제된 상태입니다.
 
 하지만 지금은 복구하는 것이 연습이 아니므로 강제 push를 진행합니다.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 이제 GitHub를 확인해봅시다.
 

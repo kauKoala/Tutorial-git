@@ -12,7 +12,7 @@ add를 취소하는 방법은 `git reset 파일/폴더` 입니다.
 
 `git reset tutorials/focus-mode/background.js` 와 `git reset tutorials/focus-mode/focus-mode.css` 를 입력합니다. 그리고 `git status` 를 확인해보면 취소가 된 것을 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 이번엔 hello-world 폴더 안에 add가 된 변경된 파일을 전부 취소해보겠습니다.
 

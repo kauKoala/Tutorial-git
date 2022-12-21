@@ -18,7 +18,7 @@
 
 터미널에 아무런 내용이 나타나지 않지만 `git log --oneline -3` 을 적용해보면 문제 없음을 알 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 이후 `git status` 를 입력하면 위와 깉이 모두 Staging Area에 있는 것을 확인할 수 있습니다.
 
@@ -34,6 +34,6 @@
 
 제대로 된 것을 확인할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (4).png" alt=""><figcaption></figcaption></figure>
 
 각자 fork한 리포지토리를 확인해보면 저처럼 잘 덮어쓰기가 된 것을 확인할 수 있습니다.

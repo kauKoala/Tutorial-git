@@ -34,7 +34,7 @@ Staging Area 상태일 때, 강제 push가 필요하지 않은 이유는 push는
 
 이걸 올바르게 설정해봅시다.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption></figcaption></figure>
 
 다 작성했으면 nano 에디터 기준으로 Ctrl + O, Ctrl + X를 입력하면 됩니다.
 

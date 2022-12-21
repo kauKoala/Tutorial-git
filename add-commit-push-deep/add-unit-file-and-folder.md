@@ -10,7 +10,7 @@
 
 이후 git status를 통해 확인하면 아래와 같이 나옵니다.
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 여기서 focus-mode는 하나씩 add를 사용해봅시다.
 

@@ -36,7 +36,7 @@ URL 주소만 보아도 원본 리포지토리는 없다는 것을 알 수 있�
 
 이후 <mark style="color:red;">`git add upstream <git주소>`</mark> 를 프로젝트에서 작성을 하면 됩니다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (7).png" alt=""><figcaption></figcaption></figure>
 
 그리고 다시 <mark style="color:red;">`git remote -v`</mark>로 확인해보면 위처럼 upstream이라는 이름으로 두 개가 만들어질 겁니다.
 
@@ -54,7 +54,7 @@ URL 주소만 보아도 원본 리포지토리는 없다는 것을 알 수 있�
 
 <mark style="color:red;">`git remote remove upstream`</mark> 을 입력하고 <mark style="color:red;">`git remote -v`</mark> 를 통해 upstream이 사라졌는지 확인해봅시다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 정상적으로 삭제된 것을 확인할 수 있습니다.
 
