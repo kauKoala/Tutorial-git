@@ -1,4 +1,4 @@
-# git reset 파일/폴더
+# 특정 파일/폴더만 add 취소하기
 
 이전 장에 있던 상태 그대로 진행합니다.
 
@@ -18,6 +18,6 @@ add를 취소하는 방법은 `git reset 파일/폴더` 입니다.
 
 `git reset tutorials/hello-world` 를 하고 `git status` 를 입력하면 됩니다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 보통 작은 단위로 커밋을 보내기 때문에 add - commit - push를 하기 전에 git status를 실행하여 필요한 파일 경로만 복사하면 편하게 add를 할 수 있게 됩니다.
