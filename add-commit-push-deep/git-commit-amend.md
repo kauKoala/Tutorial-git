@@ -9,9 +9,9 @@
 
 
 {% hint style="info" %}
-참고로 아래 내용은 모두 push를 했다고 가정한 상태에서 진행합니다. 그래서 덮어쓰기를 하는게 필수적인데, add 상태에서 커밋 메시지를 수정하는 경우에는 덮어쓰기를 진행하지 않아도 수정이 되는 것을 확인할 수 있습니다.
+참고로 아래 내용은 모두 push를 했다고 가정한 상태에서 진행합니다. 그래서 강제 push를 하는게 필수적인데, add 상태에서 커밋 메시지를 수정하는 경우에는 강제 push를 진행하지 않아도 수정이 되는 것을 확인할 수 있습니다.
 
-Staging Area 상태일 때, 덮어쓰기가 필요하지 않은 이유는 push는 GitHub에 기록할 때 사용하는 것이기 때문입니다. 아직 기록이 되지 않았으면 덮어쓰기를 할 필요도 없게 됩니다.
+Staging Area 상태일 때, 강제 push가 필요하지 않은 이유는 push는 GitHub에 기록할 때 사용하는 것이기 때문입니다. 아직 기록이 되지 않았으면 강제 push를 할 필요도 없게 됩니다.
 {% endhint %}
 
 
@@ -28,7 +28,7 @@ Staging Area 상태일 때, 덮어쓰기가 필요하지 않은 이유는 push�
 
 이제 `git commit --amend` 를 입력해봅시다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 이렇게 커밋 제목과 주석처리된 내용이 나오게 됩니다.
 
@@ -38,7 +38,7 @@ Staging Area 상태일 때, 덮어쓰기가 필요하지 않은 이유는 push�
 
 다 작성했으면 nano 에디터 기준으로 Ctrl + O, Ctrl + X를 입력하면 됩니다.
 
-이후 커밋 메시지를 덮어쓰기를 해야 하므로 `git push -f` 를 사용합니다.
+이후 커밋 메시지를 강제 push를 해야 하므로 `git push -f` 를 사용합니다.
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
@@ -52,11 +52,11 @@ Staging Area 상태일 때, 덮어쓰기가 필요하지 않은 이유는 push�
 
 참고로 `--amend -m` 순서로 입력해야 하는 점을 주의하시길 바랍니다.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (6).png" alt=""><figcaption></figcaption></figure>
 
-이렇게 다시 hello worlb를 추가하다라는 메시지가 있을 때, `git commit --amend -m "hello world를 추가하다"` 를 작성하고, `git push -f` 를 통해 덮어쓰기를 진행합니다.
+이렇게 다시 hello worlb를 추가하다라는 메시지가 있을 때, `git commit --amend -m "hello world를 추가하다"` 를 작성하고, `git push -f` 를 통해 강제 push를 진행합니다.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
 다시 확인해보면 제대로 커밋 메시지 제목이 수정된 것을 확인할 수 있습니다.
 
