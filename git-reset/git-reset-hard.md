@@ -10,11 +10,11 @@
 
 우리는 커밋 ID가 8fb1656인 fix: 의도와 다른 코드를 추가의 커밋 다음에 있는 모든 커밋과 코드를 삭제하려고 합니다.
 
-제 커밋 ID는 8fb1656이므로 `git reset --hard 8fb1656` 을 입력합니다.
+제 커밋 ID는 8fb1656이므로 <mark style="color:red;">`git reset --hard 8fb1656`</mark> 을 입력합니다.
 
 <figure><img src="../.gitbook/assets/image (6) (4).png" alt=""><figcaption></figcaption></figure>
 
-이후 `git status`와 `git log --oneline` 을 통해 확인을 해봅시다.
+이후 <mark style="color:red;">`git status`</mark>와 <mark style="color:red;">`git log --oneline`</mark> 을 통해 확인을 해봅시다.
 
 <figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 

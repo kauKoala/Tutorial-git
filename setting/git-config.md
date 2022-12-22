@@ -23,7 +23,7 @@ git config --system --unset credential.helper
 
 ### 2. Git 연결하기
 
-이제 터미널에서 `git config --list`를 확인해봅시다.
+이제 터미널에서 <mark style="color:red;">`git config --list`</mark>를 확인해봅시다.
 
 <figure><img src="https://user-images.githubusercontent.com/79046106/208380255-7e851005-1b4a-475b-b851-eaf7f00bc69e.png" alt=""><figcaption></figcaption></figure>
 

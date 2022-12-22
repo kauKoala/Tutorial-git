@@ -16,7 +16,7 @@
 
 fork만 한 상태에서는 fork한 리포지토리를 원본 리포지토리에 맞게 업데이트를 할 수가 없습니다.
 
-일단 현재 git에 저장된 원격 저장소의 목록을 확인하기 위해 `git remote -v` 를 입력해봅시다.
+일단 현재 git에 저장된 원격 저장소의 목록을 확인하기 위해 <mark style="color:red;">`git remote -v`</mark> 를 입력해봅시다.
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 

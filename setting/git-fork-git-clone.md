@@ -57,7 +57,7 @@ Clone은 로컬에 리포지토리 파일을 생성하는 것입니다.
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-이제 그러면 미리 실행해두었던 git을 실행하여 `git clone 복사한내용` 을 입력합니다.
+이제 그러면 미리 실행해두었던 git을 실행하여 <mark style="color:red;">`git clone 복사한내용`</mark> 을 입력합니다.
 
 <figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 

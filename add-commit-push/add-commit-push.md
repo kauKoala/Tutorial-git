@@ -12,7 +12,7 @@ GitHub에 기록을 남기는 방법은 add - commit - push입니다.
 
 이제 직접 코드를 수정을 해보겠습니다.
 
-IDE를 통해 이전에 Fork - Clone한 리포지토리인 chrome-extensions-samples 폴더에서 `tutorials > focus-mode > background.js` 로 들어가면 됩니다.
+IDE를 통해 이전에 Fork - Clone한 리포지토리인 chrome-extensions-samples 폴더에서 <mark style="color:red;">`tutorials > focus-mode > background.js`</mark> 로 들어가면 됩니다.
 
 <figure><img src="../.gitbook/assets/image (5) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -36,9 +36,9 @@ git commit -m "fix: 코드 복구"
 git push
 ```
 
-* `git add .` : 온점(.)은 수정/생성/삭제된 모든 파일을 추가
-* `git commit -m "fix: 코드 복구"` : add한 파일들은 fix: 코드 복구라는 내용으로 기록
-* `git push` : 내가 기록한 내용을 GitHub에 저장
+* <mark style="color:red;">`git add .`</mark> : 온점(.)은 수정/생성/삭제된 모든 파일을 추가
+* <mark style="color:red;">`git commit -m "fix: 코드 복구"`</mark> : add한 파일들은 fix: 코드 복구라는 내용으로 기록
+* <mark style="color:red;">`git push`</mark> : 내가 기록한 내용을 GitHub에 저장
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
